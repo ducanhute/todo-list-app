@@ -7,7 +7,7 @@ You can try the app here: https://ducanhute.github.io/todo-list-app/
 - Thanh footer: Tự động đếm hiện thị số việc công việc còn lại chưa thực hiện
 - Thanh footer: Có thể lọc công việc: All(tất cả công việc), Active(công việc chưa thực hiện), Completed(công việc đã thực hiện).
 - Một số chức năng khác: Nút xóa tất cả công việc đã hoàn thành, tự động ẩn thanh footer và phần body khi không có công việc nào...
+# App được việt dựa trên cấu trúc của react + redux
 <p align="center">
-  <img src="https://vntalking.com/wp-content/uploads/2020/12/redux.png" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="https://vntalking.com/wp-content/uploads/2020/12/redux.png" width="500" title="hover text">
 </p>
